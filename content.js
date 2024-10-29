@@ -1,5 +1,5 @@
 // OpenAI API anahtarını buraya yapıştır
-const apiKey = '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';  // Aldığın API anahtarını buraya yapıştır
+const apiKey = '';  // Aldığın API anahtarını buraya yapıştır
 
 // PDF dosyasından metin çekmek için PDF.js kullanıyoruz
 async function extractTextFromPDF(url) {
