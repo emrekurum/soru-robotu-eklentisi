@@ -1,2 +1,2 @@
 # soru-robotu-eklentisi
-Eklentinin amacı 
+Ek
