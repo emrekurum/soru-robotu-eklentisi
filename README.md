@@ -1,2 +1,2 @@
 # soru-robotu-eklentisi
-Eklentinin amacı web sayfa üzerindeki soruların tespit
+Eklentinin amacı web sayfa üzerindeki
