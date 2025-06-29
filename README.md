@@ -1,2 +1,1 @@
-# soru-robotu-eklentisi
-Ek
+# 
